@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "all": "blockgravity:blocks/falling_stone_bricks",
+    "top": "blockgravity:blocks/falling_stone_bricks",
+    "side": "blockgravity:blocks/falling_stone_bricks"
+  }
+}

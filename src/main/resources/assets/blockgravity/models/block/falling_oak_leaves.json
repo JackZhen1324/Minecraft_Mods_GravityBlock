@@ -1,0 +1,6 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "blockgravity:blocks/falling_oak_leaves"
+  }
+}

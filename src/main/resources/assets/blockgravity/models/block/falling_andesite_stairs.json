@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "all": "blockgravity:blocks/falling_andesite",
+    "top": "blockgravity:blocks/falling_andesite",
+    "side": "blockgravity:blocks/falling_andesite"
+  }
+}

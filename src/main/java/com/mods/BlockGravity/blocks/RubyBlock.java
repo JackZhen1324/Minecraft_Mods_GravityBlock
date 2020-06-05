@@ -8,7 +8,7 @@ import net.minecraftforge.common.ToolType;
 
 public class RubyBlock extends FallingBlock {
     public RubyBlock(){
-        super(Block.Properties.create(Material.SAND)
+        super(Block.Properties.create(Material.LEAVES)
                 .hardnessAndResistance(5.0f,0.0f)
                 .sound(SoundType.SAND)
                 .harvestLevel(0)

@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "blockgravity:blocks/falling_dirt",
+        "bottom": "blockgravity:blocks/falling_dirt",
+        "top": "blockgravity:blocks/falling_grass_block_top",
+        "side": "blockgravity:blocks/falling_grass_block_snow"
+    }
+}

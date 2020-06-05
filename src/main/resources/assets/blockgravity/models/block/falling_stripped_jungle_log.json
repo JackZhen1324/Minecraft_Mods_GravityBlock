@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blockgravity:blocks/falling_stripped_jungle_log"
+  }
+}

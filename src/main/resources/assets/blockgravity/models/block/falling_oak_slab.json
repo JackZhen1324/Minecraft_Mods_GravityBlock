@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "blockgravity:blocks/falling_oak_planks",
+        "top": "blockgravity:blocks/falling_oak_planks",
+        "side": "blockgravity:blocks/falling_oak_planks"
+    }
+}

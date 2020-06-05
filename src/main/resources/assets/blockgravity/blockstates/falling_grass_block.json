@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "blockgravity:block/falling_grass_block" },
+            { "model": "blockgravity:block/falling_grass_block", "y": 90 },
+            { "model": "blockgravity:block/falling_grass_block", "y": 180 },
+            { "model": "blockgravity:block/falling_grass_block", "y": 270 }
+        ]
+
+    }
+}

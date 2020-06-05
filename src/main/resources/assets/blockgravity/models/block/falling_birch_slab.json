@@ -1,0 +1,9 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "blockgravity:blocks/falling_birch_planks",
+        "top": "blockgravity:blocks/falling_birch_planks",
+        "side": "blockgravity:blocks/falling_birch_planks"
+    }
+}
+

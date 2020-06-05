@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "":  { "model": "blockgravity:block/falling_sandstone_stairs" }
+
+    }
+}

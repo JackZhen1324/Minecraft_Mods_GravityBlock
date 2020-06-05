@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "all": "blockgravity:blocks/falling_dark_oak_panks",
+    "top": "blockgravity:blocks/falling_dark_oak_planks",
+    "side": "blockgravity:blocks/falling_dark_oak_planks"
+  }
+}

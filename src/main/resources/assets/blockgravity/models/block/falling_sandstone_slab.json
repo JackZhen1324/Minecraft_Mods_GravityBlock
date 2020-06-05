@@ -1,0 +1,9 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "blockgravity:blocks/falling_sandstone",
+        "top": "blockgravity:blocks/falling_sandstone",
+        "side": "blockgravity:blocks/falling_sandstone"
+    }
+}
+

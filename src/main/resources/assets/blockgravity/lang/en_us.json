@@ -1,0 +1,12 @@
+{
+  "item.blockgravity.ruby": "Ruby",
+  "block.blockgravity.ruby_block": "Block of Ruby",
+  "itemGroup.BLockGravityTab": "BLockGravity",
+  "block.blockgravity.falling_dirt": "falling dirt",
+  "block.blockgravity.falling_oak_log": "falling oak_log",
+  "block.blockgravity.falling_cobblestone": "falling_cobblestone",
+  "block.blockgravity.falling_stone": "falling_stone",
+  "block.blockgravity.falling_iron_ore": "falling_iron_ore",
+  "block.blockgravity.falling_grass_block": "falling_grassblock"
+
+}
